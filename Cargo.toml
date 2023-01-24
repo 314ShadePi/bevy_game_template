@@ -1,5 +1,5 @@
 [package]
-name = "bevy_game_one"
+name = "bevy_game_template"
 version = "0.1.0"
 edition = "2021"
 
@@ -11,11 +11,6 @@ opt-level = 1
 
 [profile.dev.package."*"]
 opt-level = 3
-
-[workspace.metadata.dylint]
-libraries = [
-    { git = "https://github.com/MinerSebas/bevy_lint", branch = "main" },
-]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
