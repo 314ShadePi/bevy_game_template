@@ -1,5 +1,4 @@
 mod components;
-mod entities;
 mod plugins;
 mod resources;
 mod systems;
