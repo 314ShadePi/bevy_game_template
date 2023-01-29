@@ -1,6 +1,7 @@
 [package]
-name = "bevy_game_template"
+name = "{{project-name}}"
 version = "0.1.0"
+authors = ["{{authors}}"]
 edition = "2021"
 
 [profile.release]
